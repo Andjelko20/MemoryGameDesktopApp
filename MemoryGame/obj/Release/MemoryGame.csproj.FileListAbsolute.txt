@@ -1,0 +1,14 @@
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\bin\Release\MemoryGame.exe.config
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\bin\Release\MemoryGame.exe
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\bin\Release\MemoryGame.pdb
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.Login.resources
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.GameArea.resources
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.Properties.Resources.resources
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.Results.resources
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.Top10.resources
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.csproj.GenerateResource.cache
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.exe
+C:\Users\Mijatovic\Desktop\MG_642019_PROGRESS\MemoryGame\obj\Release\MemoryGame.pdb
